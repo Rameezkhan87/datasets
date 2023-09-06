@@ -1,16 +1,12 @@
 [
   {
-    "name": "Hartsfield Jackson Atlanta Intl",
-    "city": "Atlanta",
-    "country": "United States",
-    "iata_code": "ATL",
-    "_geoloc": {
-      "lat": 33.636719,
-      "lng": -84.428067
+    "AirportCode": "ATL"
+    "AirportName": "Hartsfield Jackson Atlanta Intl",
+    "City": "Atlanta",
+    "Country": "United States"
+  
     },
-    "links_count": 1826,
-    "objectID": "3682"
-  },
+ 
   {
     "name": "Chicago Ohare Intl",
     "city": "Chicago",
